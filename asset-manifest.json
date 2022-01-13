@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Evgenyi-123/shop/static/css/main.768b84b3.css",
+    "main.js": "/Evgenyi-123/shop/static/js/main.0fef3971.js",
+    "index.html": "/Evgenyi-123/shop/index.html",
+    "main.768b84b3.css.map": "/Evgenyi-123/shop/static/css/main.768b84b3.css.map",
+    "main.0fef3971.js.map": "/Evgenyi-123/shop/static/js/main.0fef3971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768b84b3.css",
+    "static/js/main.0fef3971.js"
+  ]
+}
