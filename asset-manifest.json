@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Evgenyi-123/shop/static/css/main.768b84b3.css",
-    "main.js": "/Evgenyi-123/shop/static/js/main.0fef3971.js",
-    "index.html": "/Evgenyi-123/shop/index.html",
-    "main.768b84b3.css.map": "/Evgenyi-123/shop/static/css/main.768b84b3.css.map",
-    "main.0fef3971.js.map": "/Evgenyi-123/shop/static/js/main.0fef3971.js.map"
+    "main.css": "/shop/static/css/main.768b84b3.css",
+    "main.js": "/shop/static/js/main.bdcbfa4f.js",
+    "index.html": "/shop/index.html",
+    "main.768b84b3.css.map": "/shop/static/css/main.768b84b3.css.map",
+    "main.bdcbfa4f.js.map": "/shop/static/js/main.bdcbfa4f.js.map"
   },
   "entrypoints": [
     "static/css/main.768b84b3.css",
-    "static/js/main.0fef3971.js"
+    "static/js/main.bdcbfa4f.js"
   ]
 }
