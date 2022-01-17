@@ -9,7 +9,9 @@ export default function Header() {
                 </a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>
-                        <a href="#">Sass</a>
+                        <a href="https://github.com/Evgenyi-123/shop.git">
+                            Git Hub
+                        </a>
                     </li>
                 </ul>
             </div>
